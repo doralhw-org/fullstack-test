@@ -119,11 +119,12 @@ Projects achieving over 100 points will be considered for special recognition, h
 
 ## Submission Instructions
 
-- Upload the project to a public GitHub repository and share the URL (don’t use the name of the company, nor this document, to avoid searches to find it) by the due date specified in the email, please submit whatever you accomplished.
+- Upload the project to a public GitHub repository and share the URL by the due date specified in the email, please submit whatever you accomplished.
 - Include a `README.md` with setup and running instructions, a project overview, and notes on libraries/frameworks used.
 - Mention any assumptions or limitations in your implementation.
 - Not submitting the project on time will immediately disqualify you as a candidate.
 - Please do not introduce any commits after the submittion time, these will not be taken in consideration.
 
+## DO NOT: fork this repo, copy this readme nor use the name of the company in your readme. We want to avoid other candidates to find and use your work.
 
 ## Good Luck
