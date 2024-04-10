@@ -124,7 +124,6 @@ Projects achieving over 100 points will be considered for special recognition, h
 - Mention any assumptions or limitations in your implementation.
 - Not submitting the project on time will immediately disqualify you as a candidate.
 - Please do not introduce any commits after the submittion time, these will not be taken in consideration.
-
-## DO NOT: fork this repo, copy this readme nor use the name of the company in your readme. We want to avoid other candidates to find and use your work.
+- To avoid other candidates to find and use your work, **DO NOT: fork this repo, use this file content nor the name of the company in your readme.**
 
 ## Good Luck
