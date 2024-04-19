@@ -90,6 +90,7 @@ Develop a Node.js API using NestJS that:
 - Combine the backend and frontend (**bonus feature:** implementing missing translation functionality in the frontend).
 - E2E testing (we suggest using Crypress, but accept any other framework you may have experience with)
 - Configure both frontend and backend services within a docker-compose setup, showcasing a complete, deployable application stack.
+- Make the frontend run on mobile with [Capacitor](https://capacitorjs.com/).
 
 ## Evaluation Criteria
 
@@ -113,7 +114,7 @@ The projects will be scored over 100 points each (200), distributed across vario
 - **Unit Testing (25 points total):** Coverage and effectiveness of unit tests in ensuring functionality and reliability of the application.
 - **Validation and Error Handling (10 points):** Gracefully handling unexpected situations.
 - **Bonus Features(10 points each):** Additional functionality.
-- **Advance Bonus Features (100 points total):** Infinite scroll (+15), backend + frontend (+25), E2E testing (+40), docker-compose (+20).
+- **Advance Bonus Features (200 points total):** Infinite scroll (+15), backend + frontend (+25), E2E testing (+40), docker-compose (+20), Mobile with Capacitor (+100).
 
 Projects achieving over 100 points will be considered for special recognition, highlighting exceptional innovation, design, or functionality.
 
