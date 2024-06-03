@@ -58,7 +58,7 @@ This challenge focuses on building a Node.js API using the NestJS framework. The
 Develop a Node.js API using NestJS that:
 
 - Proxies [Wikipedia Featured Content API](https://api.wikimedia.org/wiki/Feed_API/Reference/Featured_content).
-- Offers translation for titles and extracts via the [LibreTranslate API](https://libretranslate.com/).
+- Offers translation for titles and extracts via the [LibreTranslate API](https://libretranslate.com/) (do not pay for the API, use self-hosted).
 - Ensures robust validation and error handling.
 
 ### Functional Requirements
